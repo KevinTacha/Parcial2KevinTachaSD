@@ -1,2 +1,4 @@
-# Parcial2KevinTachaSD
+# Parcial-2-KevinTacha-SD
 Parcial Teorico - Practico segundo Corte
+
+
