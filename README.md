@@ -243,7 +243,21 @@ Dibujar el circuito:
 
 <img width="1456" height="733" alt="Gemini_Generated_Image_z28m2mz28m2mz28m" src="https://github.com/user-attachments/assets/fc2645dd-d4e2-4ac1-a235-ccfc89c0c689" />
 
+Tabla de verdad:
 
+<img width="660" height="602" alt="image" src="https://github.com/user-attachments/assets/b2ba6bb4-f838-41bf-ba48-e2ef8cc3b8dc" />
+
+Segundo punto:
+
+<img width="839" height="161" alt="image" src="https://github.com/user-attachments/assets/4304f893-4083-4459-b9d3-298bb0965c92" />
+
+Dibujar el circuito:
+
+<img width="1060" height="651" alt="image" src="https://github.com/user-attachments/assets/fd97cea8-d07a-4038-b434-b122d3970b2f" />
+
+Tabla de verdades:
+
+<img width="474" height="733" alt="image" src="https://github.com/user-attachments/assets/3583de99-092f-470e-8f27-46b691ae4f16" />
 
 
 
