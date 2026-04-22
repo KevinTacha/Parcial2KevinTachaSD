@@ -5,7 +5,7 @@
 ### Parcial Teorico - Practico segundo Corte
 
 ---
-#LINK DE ESTE REPOSITORIO:
+#LINK DE ESTE REPOSITORIO: https://github.com/KevinTacha/Parcial2KevinTachaSD.git
 
 
 ---
