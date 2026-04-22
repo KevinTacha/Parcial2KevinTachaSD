@@ -79,7 +79,7 @@ Frecuencia máxima de operación: límite de velocidad de trabajo.
 
 
 <p align="center">
-<img src="imagenes/img1.png" width="500">
+<img src="archivos/img1.png" width="500">
 </p>
 
 
@@ -134,7 +134,7 @@ Aplicaciones: distribución de datos, direccionamiento de memoria, control de pe
 
 
 <p align="center">
-<img src="imagenes/img2.png" width="500">
+<img src="archivos/img2.png" width="500">
 </p>
 
 
@@ -194,7 +194,7 @@ Contadores binarios.
 A=1, B=1, Cin=1 → S=1, Cout=1.
 
 <p align="center">
-<img src="imagenes/img3.png" width="500">
+<img src="archivos/img3.png" width="500">
 </p>
 
 
@@ -229,7 +229,7 @@ Visualización clara: evita cálculos algebraicos largos y facilita encontrar pa
 
 
 <p align="center">
-<img src="imagenes/img4.png" width="500">
+<img src="archivos/img4.png" width="500">
 </p>
 
 
