@@ -78,7 +78,9 @@ Hold time: tiempo mínimo que la entrada debe mantenerse estable después del pu
 Frecuencia máxima de operación: límite de velocidad de trabajo.
 
 
- <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/c36fc609-d7b5-4d8b-908e-331d2279e3d3" />
+<p align="center">
+<img src="imagenes/img1.png" width="500">
+</p>
 
 
 
@@ -131,7 +133,9 @@ Ejemplo: si S2S1S0 = 011 (binario de 3), la salida Y3 recibirá el valor de D, m
 Aplicaciones: distribución de datos, direccionamiento de memoria, control de periféricos.
 
 
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/5a439dca-1555-4d30-a8ce-fd5295d7f11a" />
+<p align="center">
+<img src="imagenes/img2.png" width="500">
+</p>
 
 
 # Explicar de forma sencilla que es un sumador completo, un sumador medio y circuitos secuenciales.
@@ -189,7 +193,9 @@ Contadores binarios.
 
 A=1, B=1, Cin=1 → S=1, Cout=1.
 
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/1258b276-ed2f-4476-8136-8998788c6c61" />
+<p align="center">
+<img src="imagenes/img3.png" width="500">
+</p>
 
 
 # ¿Que es un mapa de Karnaugh? y para que sirve?
@@ -222,7 +228,9 @@ Diseño eficiente de hardware digital: circuitos más pequeños, rápidos y econ
 Visualización clara: evita cálculos algebraicos largos y facilita encontrar patrones.
 
 
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/d6ae046e-044f-4707-b3b3-c29df5458366" />
+<p align="center">
+<img src="imagenes/img4.png" width="500">
+</p>
 
 
 ---
