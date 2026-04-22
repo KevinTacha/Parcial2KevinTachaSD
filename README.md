@@ -237,6 +237,13 @@ Visualización clara: evita cálculos algebraicos largos y facilita encontrar pa
 
 ### PARTE DE DISEÑO
 
+<img width="1573" height="256" alt="image" src="https://github.com/user-attachments/assets/e38a5375-78ac-475f-a55a-0f5f2079fb5a" />
+
+Dibujar el circuito: 
+
+<img width="1456" height="733" alt="Gemini_Generated_Image_z28m2mz28m2mz28m" src="https://github.com/user-attachments/assets/fc2645dd-d4e2-4ac1-a235-ccfc89c0c689" />
+
+
 
 
 
