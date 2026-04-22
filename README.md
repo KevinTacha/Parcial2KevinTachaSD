@@ -218,16 +218,6 @@ Diseño eficiente de hardware digital: circuitos más pequeños, rápidos y econ
 
 Visualización clara: evita cálculos algebraicos largos y facilita encontrar patrones.
 
-¿Para qué sirve?
-Simplificación de expresiones booleanas: reduce ecuaciones complejas a su forma mínima.
-
-Optimización de circuitos lógicos: permite usar menos compuertas y componentes.
-
-Diseño eficiente de hardware digital: circuitos más pequeños, rápidos y económicos.
-
-Visualización clara: evita cálculos algebraicos largos y facilita encontrar patrones.
-
-
 <p align="center">
 <img src="Archivos/img4.png" width="500">
 </p>
